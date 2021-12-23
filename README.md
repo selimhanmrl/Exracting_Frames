@@ -1,8 +1,8 @@
 # Exracting_Frames
 
 Exract frames of all videos to sperated as video name files. 
-Just run in file wihch videos in.
+Just download code file to file which videos in and run like below.
   
-  python Extract_Frames.py
+    python Extract_Frames.py
 
 
